@@ -1,7 +1,10 @@
 git hub
 learning 
 git hub 
+<<<<<<< HEAD
 happy morning
+=======
 happy night
+>>>>>>> b15c71e393c9bf5ef2ccf2b9bb5eb66de9fce86c
 good morning all of you
 good night 
